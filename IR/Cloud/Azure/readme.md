@@ -416,20 +416,6 @@ To know more about what the attacker did in VM.
 ## 5.2 Office365 activities (comming soon) 
 If you have `Microsoft Defender for Cloud Apps`, you dont need `UAL`. 
 
-# Reference 
-- https://www.hunters.security/en/blog/human-friendly-guide-incident-response-microsoft-and-threat-hunting-azure-1#azure-ad-m365
-- https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/
-- https://blog.pwnedlabs.io/diving-deep-into-azure-vm-attack-vectors
-- https://blog.admindroid.com/unified-audit-log-a-guide-to-track-office-365-activities/#Turn%20on%20auditing%20through%20the%20compliance%20portal
-- https://cyberdom.blog/2023/07/29/persistence-via-app-registration-in-entra-id/
-- https://www.invictus-ir.com/news/everything-you-need-to-know-about-the-microsoftgraphactivitylogs
-- https://github.com/AtomicGaryBusey/AzureForensics/blob/master/FORENSIC%20ARTIFACTS%20-%20Azure%20Custom%20Script%20Extension%20Use.md
-- https://github.com/microsoft/MSEntraIDProtectionGuidance/tree/main/docs 
-
-
-
-
-
 
 
 
